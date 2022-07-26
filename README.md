@@ -4,6 +4,8 @@
 
 🌱 I’m currently learning Data Engineer
 
+🌱 My favorite hobbies are listening to music while reading their lyrics.
+
 
 
 ## 📫 How to reach me:
